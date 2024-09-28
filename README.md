@@ -1,4 +1,4 @@
-# -MotionControlRobotPlan
+# MotionControlRobotPlan
 High-Speed Camera Robot
 
 
@@ -10,9 +10,8 @@ High-Speed Camera Robot
     []  Define the goal of the robot (e.g., industrial robot, autonomous vehicle, humanoid, etc.).
     
     
-    []  Research existing robots: Explore current designs and technologies in the type of robot you want to     build.
+    []  Research existing robots: Explore current designs and technologies in the type of robot you want tobuild.
     
-        Online: [http://www.stereovision.biz/bolt/]
     
     []  Learn basic robotics concepts: Kinematics, sensors, actuators, control systems, and AI for robotics.
     
@@ -20,16 +19,14 @@ High-Speed Camera Robot
     []  Study hardware: Look into microcontrollers, motors, sensors, batteries, and mechanical parts.
     
     
-    []  Study software: Research robotic operating systems (ROS), control algorithms, AI, and relevant     programming languages.
+    []  Study software: Research robotic operating systems (ROS), control algorithms, AI, and relevant programming languages.
     
-         Software: [LINUXCNC]
 
 
 ## 2. Define Requirements
 
     []   Decide the robot type: Wheeled, humanoid, drone, robotic arm, etc.
     
-          [] robotic_arm
     
     []    List necessary components:
     
@@ -118,3 +115,68 @@ High-Speed Camera Robot
     []  Experiment with new technologies:
         [] Add cameras, LiDAR, or AI-based object detection for more advanced capabilities.
         [] Improve locomotion (e.g., better wheels, legs, or arms).
+
+
+
+
+```
+___________________
+```
+# Decisions_Made
+
+
+[x] robot_type   : Robotic_arm   -->  http://www.stereovision.biz/bolt/
+
+[x] Software     : Linuxcnc      -->  https://linuxcnc.org
+
+[x] CAD Software : FreeCAD       -->  https://www.freecad.org
+                   openscad      -->  https://openscad.org
+                   QCAD          -->  https://www.qcad.org/en/
+                   LibreCAD      -->  https://librecad.org/
+
+
+
+
+Notes : 
+
+
+
+Create your own robotic arm from scratch
+https://arctosrobotics.com/
+
+
+Open source 6 axis robotic arm
+https://github.com/PCrnjak/Faze4-Robotic-arm
+https://discord.com/invite/prjUvjmGpZ
+
+
+
+Thor is an Open Source and printable robot arm with six degrees of freedom.
+http://thor.angel-lm.com/
+
+
+MOTUS - Open-Source 3D Printed Robotic Arm
+https://www.instructables.com/MOTUS-Open-Source-3D-Printed-Robotic-Arm/
+
+
+BCN3D MOVEO: A fully Open Source 3D printed robot arm
+https://www.bcn3d.com/bcn3d-moveo-the-future-of-learning-robotic-arm/
+
+
+The Annin Robotics AR4 robot is a 6DOF desktop size industrial robot that is a free, open plan low cost robot.
+https://www.anninrobotics.c
+
+
+
+Hiwonder ArmPi FPV AI Vision Raspberry Pi 5 ROS Robotic Arm with Python Open Source
+https://www.hiwonder.com/products/armpi-fpv?variant=39341129203799&srsltid=AfmBOooaAmLN8MLUtbzRga1YlJWR-saMfG_tEipd5LRtscRVyLu6vrjh
+
+
+
+
+Papers :
+
+
+Implementation and Validation of Thor 3D Printed Open Source Robotic Arm
+
+Design optimization on the drive train of a light-weight robotic arm
