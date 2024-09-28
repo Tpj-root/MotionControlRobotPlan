@@ -130,8 +130,11 @@ ___________________
 [x] Software     : Linuxcnc      -->  https://linuxcnc.org
 
 [x] CAD Software : FreeCAD       -->  https://www.freecad.org
+
                    openscad      -->  https://openscad.org
+
                    QCAD          -->  https://www.qcad.org/en/
+
                    LibreCAD      -->  https://librecad.org/
 
 
@@ -140,7 +143,7 @@ ___________________
 Notes : 
 
 
-
+```
 Create your own robotic arm from scratch
 https://arctosrobotics.com/
 
@@ -170,13 +173,14 @@ https://www.anninrobotics.c
 
 Hiwonder ArmPi FPV AI Vision Raspberry Pi 5 ROS Robotic Arm with Python Open Source
 https://www.hiwonder.com/products/armpi-fpv?variant=39341129203799&srsltid=AfmBOooaAmLN8MLUtbzRga1YlJWR-saMfG_tEipd5LRtscRVyLu6vrjh
-
+```
 
 
 
 Papers :
 
-
+```
 Implementation and Validation of Thor 3D Printed Open Source Robotic Arm
 
 Design optimization on the drive train of a light-weight robotic arm
+```
